@@ -55,6 +55,7 @@ var rules = {
     "Why do you recall ~y right now?",
     "What in the present situation reminds you of ~y?",
     "What is the connection between me and ~y?",
+    
   ],
   "~*x do you remember ~*y": [
     "Did you think I would forget ~y?",
@@ -135,6 +136,7 @@ var rules = {
     "Were you really?",
     "Perhaps I already knew you were ~y.",
     "Why do you tell me you were ~y now?",
+    "That's nice. I have not met many people I would describe as ~y."
   ],
   "~*x was I ~*y": [
     "What if you were ~y?",
@@ -144,12 +146,14 @@ var rules = {
   "~*x I am ~*y": [
     "In what way are you ~y?",
     "Do you want to be ~y?",
+     "That's nice. I have not met many people I would describe as ~y."
   ],
   "~*x am I ~*y": [
     "Do you believe you are ~y?",
     "Would you want to be ~y?",
     "You wish I would tell you you are ~y?",
     "What would it mean if you were ~y?",
+    "It depends on who you ask."
   ],
   "~*x am ~*y": [
     "Why do you say 'AM?'",
